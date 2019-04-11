@@ -21,6 +21,8 @@ public TextView output;
         Fox fox = new Fox();
 
 
+
+
         ArrayList<Animal> animals = new ArrayList<Animal>();
         animals.add(duck);
         animals.add(fish);
